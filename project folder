@@ -1,0 +1,11 @@
+/project-folder
+  |-- /css
+  |    |-- styles.css
+  |
+  |-- /js
+  |    |-- script.js
+  |
+  |-- index.html
+  |-- services.html
+  |-- ai-services.html
+  |-- contact.html
